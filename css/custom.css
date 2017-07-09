@@ -1,0 +1,192 @@
+body {
+
+
+}
+.tophead {
+    padding: 0px 0px 0px 0px;
+    border-bottom: 1px solid #ccc;
+
+
+}
+.toplft {
+    width: 140px;
+    display: block;
+    border-left: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+    padding: 10px;
+    text-align: center;
+
+}
+.topnumb {
+    width: 140px;
+    float: right;
+    border-left: 1px solid #CCC;
+    text-align: center;
+    padding: 10px 7px 10px 7px;
+
+}
+.soc {
+     width: 140px;
+     float: right;
+     border-left: 1px solid #CCC;
+     border-right: 1px solid #CCC;
+     padding: 10px;
+
+}
+.soc ul{
+    margin: 0px;
+    padding: 0px;
+
+}
+.soc ul li{
+    list-style: none;
+    display: block;
+    float: left;
+    padding: 0px 8px 0px 8px;
+
+}
+.soc ul li a{
+    text-decoration: none;
+    color: #000;
+   
+}
+.padleftright {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.navbar-inverse {
+    background: none;
+    border: none;
+
+}
+a.navbar-brand {
+    color: #000 !important; 
+    font-weight: bold;
+}
+a.navbar-brand:hover {
+    color: #7F00FF !important;  
+}
+.navbar-inverse .navbar-nav > li > a{
+    color: #000;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+     color: #7F00FF;
+     background-color: transparent;
+}
+.navbar-inverse .navbar-nav > li > a.lbg{
+     color: #FFF;
+     background: #7F00FF;
+}
+.navbar-inverse .navbar-nav > li > a.lbg > span{
+     margin-right: 5px;
+}
+.navbar-inverse .navbar-nav > li > a.myrt{
+     margin-right: 10px;
+}
+.navbar-inverse .navbar-nav > li > a.myrt > span{
+     margin-right: 5px;
+}
+.nav{
+	margin-top: 10px;
+}
+.navbar{
+	margin-bottom:0px;
+}
+.secpad{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.title-h{
+	text-align: center;
+	margin-bottom: 15px;
+}
+.icn span{
+    display: block;
+    width: 90px;
+    height: 90px;
+    font-size: 25px;
+    padding: 27px 20px 20px 20px;
+    text-align: center;
+    color: #000;
+    background: #F5F5F5;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.icn h4 {
+     text-align: center;
+}
+.icn-des {
+     text-align: center;
+}
+.margbtm {
+    margin-bottom: 15px;
+}
+
+.graybg {
+    
+    background: #AAAAAA;
+}
+
+.plan {
+    
+     background: #FFF;
+}
+.plan ul {
+    margin: 0;
+    padding: 0;
+    
+}
+.plan ul li {
+   list-style: none;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    color: #000;
+    
+    
+}
+
+.footerside {
+    background: #000;
+}
+.ftplans ul {
+    padding-left: 0px;
+    
+}
+.ftplans ul li {
+    list-style: none;
+    color: gray;
+       
+}
+.ftplans ul li a{
+
+    text-decoration: none;
+    color: grey;
+}
+.ftline {
+    color: white;
+}
+
+.ftplans ul li a:hover{
+    color: white;
+}
+.fotdesc {
+    
+}
+
+#wrapper {
+     background-image: url(../img/education.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
